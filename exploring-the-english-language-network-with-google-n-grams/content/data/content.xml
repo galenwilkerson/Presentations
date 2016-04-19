@@ -1,0 +1,2176 @@
+<zuiprezi>
+  <version>3</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-650150.9637603306" y="-335024.2468181818" width="1300301.9275206611" height="670048.4936363637"/>
+    </settings>
+    <object id="3_202796" type="image" x="-199128.65" y="-72906.5" r="0" s="8.329992294311523">
+      <source w="3598" h="1618">36663127<url>36663127.jpg</url></source>
+      <resource>
+        <id>36663127</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/f/f9379b65f8517a662392e0343a8fc389eea81.jpg</url>
+      </resource>
+    </object>
+    <object id="1_202796" type="image" x="-46312.15" y="32405.5" r="0" s="73.65974426269531">
+      <source w="1024" h="461">36662534<url>36662534.jpg</url></source>
+      <resource>
+        <id>36662534</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/d/9322f2c6b4a07130217443a6d493e0941ee76.jpg</url>
+      </resource>
+    </object>
+    <object id="6_1163273" type="button" x="-45804.2" y="32172.2" r="0" s="526.0133056640625" class="circle">
+      <type>circle</type>
+      <size>
+        <w>156.2</w>
+        <h>156.2</h>
+      </size>
+    </object>
+    <object id="0_1163273" type="label" x="-42416.5" y="26983.1" r="0" s="227.12950134277344" class="head">
+      <textfield>
+        <x>-185.85</x>
+        <y>-25.95</y>
+        <text>Exploring English Language Networks
+with GooGle N-Grams</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Exploring English Language Networks</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">with GooGle N-Grams</FONT>
+          </P>
+        </htmlText>
+        <w>371.75</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="1_1163273" type="label" x="-34900" y="40805.55" r="0" s="143.9752960205078" class="head">
+      <textfield>
+        <x>-50.2</x>
+        <y>-13.95</y>
+        <text>Tom Nummy</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Tom Nummy</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="2_1163273" type="label" x="-37709.9" y="46212.4" r="0" s="143.9752960205078" class="head">
+      <textfield>
+        <x>-76.05</x>
+        <y>-13.95</y>
+        <text>Galen Wilkerson</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Galen Wilkerson</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="3_1163273" type="label" x="-13286.65" y="41510.55" r="0" s="64.47393035888672" class="head">
+      <textfield>
+        <x>-202.6</x>
+        <y>-13.95</y>
+        <text>Physics Department, Northeastern University</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Physics Department, Northeastern University</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="4_1163273" type="label" x="-7656.85" y="46849.15" r="0" s="71.98763275146484" class="head">
+      <textfield>
+        <x>-247.85</x>
+        <y>-13.95</y>
+        <text>Computer Science Department, Northeastern University</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Computer Science Department, Northeastern University</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="7_1163273" type="button" x="40620.05" y="-56726.45" r="0" s="327.3358154296875" class="circle">
+      <type>circle</type>
+      <size>
+        <w>132.1</w>
+        <h>132.1</h>
+      </size>
+    </object>
+    <object id="8_1163273" type="label" x="45703.45" y="-70854.4" r="0" s="143.9752960205078" class="head">
+      <textfield>
+        <x>-86.8</x>
+        <y>-13.95</y>
+        <text>What is an N-Gram?</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">What is an N-Gram?</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="14_1163273" type="button" x="49435.85" y="-53941.4" r="0" s="6.996214866638184" class="circle">
+      <type>circle</type>
+      <size>
+        <w>541.6</w>
+        <h>541.6</h>
+      </size>
+    </object>
+    <object id="9_1163273" type="label" x="50295.75" y="-54533.8" r="0" s="10.157312393188477" class="head">
+      <textfield>
+        <x>-43.65</x>
+        <y>-13.95</y>
+        <text>"Hey You"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"Hey You"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="10_1163273" type="label" x="50772.5" y="-53515.15" r="0" s="14.223126411437988" class="head">
+      <textfield>
+        <x>-43.95</x>
+        <y>-13.95</y>
+        <text>"The Dog"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"The Dog"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="11_1163273" type="label" x="59255.2" y="-62513.2" r="0" s="6.78043270111084" class="head">
+      <textfield>
+        <x>-74.5</x>
+        <y>-13.95</y>
+        <text>"Hello Goodbye"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"Hello Goodbye"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="12_1163273" type="label" x="48063.35" y="-54100.35" r="0" s="8.948681831359863" class="head">
+      <textfield>
+        <x>-65.6</x>
+        <y>-13.95</y>
+        <text>"tomato soup"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"tomato soup"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="13_1163273" type="label" x="48490.3" y="-53211.75" r="0" s="6.78043270111084" class="head">
+      <textfield>
+        <x>-110.6</x>
+        <y>-13.95</y>
+        <text>"abnormal metabolites"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"abnormal metabolites"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="15_1163273" type="label" x="48972.55" y="-55228.55" r="0" s="23.898029327392578" class="head">
+      <textfield>
+        <x>-37.15</x>
+        <y>-13.95</y>
+        <text>2 Grams</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">2 Grams</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="21_1163273" type="label" x="39719.6" y="-65316" r="0" s="77.31256103515625" class="head">
+      <textfield>
+        <x>-208.75</x>
+        <y>-13.95</y>
+        <text>a consecutive usage of N words (directed!)</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">a consecutive usage of N words (directed!)</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="22_1163273" type="label" x="44263.85" y="-61168.85" r="0" s="77.31256103515625" class="head">
+      <textfield>
+        <x>-208.1</x>
+        <y>-25.95</y>
+        <text>Each N-Gram is weighted by the frequency of which it appears in the data set</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Each N-Gram is weighted by the frequency of which it appears in the data set</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>416.25</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="0_1169710" type="button" x="149746" y="-92062.7" r="0" s="332.8438720703125" class="circle">
+      <type>circle</type>
+      <size>
+        <w>106</w>
+        <h>106</h>
+      </size>
+    </object>
+    <object id="1_1169710" type="label" x="140077.65" y="-103659.3" r="0" s="156.70677185058594" class="head">
+      <textfield>
+        <x>-78.85</x>
+        <y>-13.95</y>
+        <text>Google's N-Grams</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Google's N-Grams</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="2_1169710" type="label" x="155778.45" y="-100071.5" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-155.45</x>
+        <y>-13.95</y>
+        <text>we focused solely on 2-Grams</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">we focused solely on 2-Grams</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="3_1169710" type="label" x="156951.75" y="-97260.05" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-168</x>
+        <y>-13.95</y>
+        <text>Analyzed a subset of 10  of them!</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Analyzed a subset of 10  of them!</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="4_1169710" type="label" x="164922.85" y="-98074.3" r="0" s="57.299835205078125" class="head">
+      <textfield>
+        <x>-10.45</x>
+        <y>-13.95</y>
+        <text>10</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">10</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="5_1169710" type="button" x="99144.7" y="-75944.7" r="-17.522535677923777" s="186.48600539029238" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>351</w>
+        <h>13</h>
+      </size>
+    </object>
+    <object id="7_1169710" type="label" x="156849.05" y="-93255.45" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-166.9</x>
+        <y>-25.95</y>
+        <text>Implemented programs to filter and validate entries</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Implemented programs to filter and validate entries</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>333.85</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="8_1169710" type="label" x="156833.55" y="-88018.4" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-166.65</x>
+        <y>-25.95</y>
+        <text>reduced overall data size by 75 percent</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">reduced overall data size by 75 percent</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>333.35</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="1_7084089" type="button" x="-128674.4" y="-20400.6" r="33.57641534312301" s="500.04221133555404" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>190</w>
+        <h>24</h>
+      </size>
+    </object>
+    <object id="2_7084089" type="label" x="-190265.6" y="-81460.05" r="0" s="264.3907470703125" class="head">
+      <textfield>
+        <x>-37.1</x>
+        <y>-13.95</y>
+        <text>REsults</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">REsults</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="10_7084089" type="label" x="-188434" y="-62136.35" r="0" s="62.766788482666016" class="head">
+      <textfield>
+        <x>-160.55</x>
+        <y>-25.95</y>
+        <text>power law distribution indicates a scale free network</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">power law distribution indicates a scale free network</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>321.1</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="11_7084089" type="label" x="-189209.65" y="-58987" r="0" s="62.766788482666016" class="head">
+      <textfield>
+        <x>-148.15</x>
+        <y>-13.95</y>
+        <text>Distinct "double power-law"</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Distinct "double power-law"</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="12_7084089" type="label" x="-190486.35" y="-56947.6" r="0" s="46.05319595336914" class="head">
+      <textfield>
+        <x>-138.2</x>
+        <y>-25.95</y>
+        <text>observed by other groups in various networks</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">observed by other groups in various networks</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>276.4</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="14_7084089" type="label" x="-188445" y="-54422" r="0" s="46.05319595336914" class="head">
+      <textfield>
+        <x>-182.55</x>
+        <y>-25.95</y>
+        <text>Shows lack of low degree nodes or abundance of hubs</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Shows lack of low degree nodes or abundance of hubs</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>365.15</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="15_7084089" type="label" x="-205972.6" y="-63026.8" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-87.35</x>
+        <y>-13.95</y>
+        <text>Degree Distribution</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Degree Distribution</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="16_7084089" type="button" x="-126031" y="-110206.25" r="0" s="479.17633056640625" class="circle">
+      <type>circle</type>
+      <size>
+        <w>59.9</w>
+        <h>59.9</h>
+      </size>
+    </object>
+    <object id="17_7084089" type="button" x="-156717.4" y="-89536.2" r="-35.33368921480975" s="222.01917436940948" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>189</w>
+        <h>13</h>
+      </size>
+    </object>
+    <object id="19_7084089" type="image" x="-134020.7" y="-109218.05" r="0" s="19.799747467041016">
+      <source w="792" h="612">36454706<url>36454706.swf</url></source>
+      <resource>
+        <id>36454706</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/4/2/77c365535401491b99afb9a275f7a1d9d3a2f.swf</url>
+      </resource>
+    </object>
+    <object id="22_7084089" type="label" x="-124659.45" y="-116797.45" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-149.8</x>
+        <y>-13.95</y>
+        <text>Average Nearest Neighbor Degree</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Average Nearest Neighbor Degree</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="23_7084089" type="label" x="-120518.4" y="-114523.5" r="0" s="46.897674560546875" class="head">
+      <textfield>
+        <x>-119.95</x>
+        <y>-25.95</y>
+        <text>Negative slope shows Disassortativity.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Negative slope shows Disassortativity.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>239.95</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="24_7084089" type="label" x="-120626.65" y="-112541.5" r="0" s="30.213088989257813" class="head">
+      <textfield>
+        <x>-135.9</x>
+        <y>-13.95</y>
+        <text>This is an expected result</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">This is an expected result</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="26_7084089" type="button" x="-224827.2" y="-136659.4" r="0" s="313.2225646972656" class="circle">
+      <type>circle</type>
+      <size>
+        <w>95.8</w>
+        <h>95.8</h>
+      </size>
+    </object>
+    <object id="27_7084089" type="button" x="-214155.35" y="-104957.8" r="71.47427915379703" s="207.31040353622856" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>142</w>
+        <h>13</h>
+      </size>
+    </object>
+    <object id="28_7084089" type="button" x="-176960.8" y="-123445.25" r="14.01502225706002" s="311.2876607080692" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>204</w>
+        <h>12</h>
+      </size>
+    </object>
+    <object id="30_7084089" type="image" x="-218747.4" y="-135544.25" r="0" s="22.003454208374023">
+      <source w="792" h="612">36456038<url>36456038.swf</url></source>
+      <resource>
+        <id>36456038</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/0/6/f8a746d15e1fe54670fd72870d2b931169318.swf</url>
+      </resource>
+    </object>
+    <object id="31_7084089" type="label" x="-218749.4" y="-143856.5" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-89.2</x>
+        <y>-13.95</y>
+        <text>Weight Distribution</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Weight Distribution</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="34_7084089" type="button" x="-177143.85" y="105220.6" r="0" s="592.274658203125" class="circle">
+      <type>circle</type>
+      <size>
+        <w>100.2</w>
+        <h>100.2</h>
+      </size>
+    </object>
+    <object id="35_7084089" type="button" x="-116854.4" y="72305" r="-28.556731493280868" s="271.8767889951216" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>280</w>
+        <h>18</h>
+      </size>
+    </object>
+    <object id="36_7084089" type="label" x="-185924.4" y="88690.1" r="0" s="187.5908203125" class="head">
+      <textfield>
+        <x>-52.55</x>
+        <y>-13.95</y>
+        <text>References</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">References</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="37_7084089" type="button" x="111564.6" y="126121" r="0" s="485.5914306640625" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115.9</w>
+        <h>115.9</h>
+      </size>
+    </object>
+    <object id="38_7084089" type="label" x="206324.55" y="177269.05" r="0" s="651.6876831054688" class="head">
+      <textfield>
+        <x>-115.7</x>
+        <y>-13.95</y>
+        <text>Evolution of the Network</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Evolution of the Network</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="41_7084089" type="label" x="86138.9" y="129787.2" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-227.65</x>
+        <y>-25.95</y>
+        <text>The number of nodes and links in the network nearly doubles within the last century</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">The number of nodes and links in the network nearly doubles within the last century</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>455.3</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="43_7084089" type="button" x="38968.7" y="82383.4" r="33.576415804430916" s="347.24417401931515" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>299</w>
+        <h>12</h>
+      </size>
+    </object>
+    <object id="44_7084089" type="label" x="155958.05" y="-84215.4" r="0" s="76.4392318725586" class="head">
+      <textfield>
+        <x>-119.25</x>
+        <y>-13.95</y>
+        <text>(Still ~20 GB of raw text!)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">(Still ~20 GB of raw text!)</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="46_7084089" type="button" x="188971.6" y="-125641.15" r="0" s="0.2352568507194519" class="circle">
+      <type>circle</type>
+      <size>
+        <w>495.75</w>
+        <h>495.8</h>
+      </size>
+    </object>
+    <object id="0_7092939" type="label" x="188961.6" y="-125663.55" r="0" s="0.29002201557159424" class="head">
+      <textfield>
+        <x>-185.9</x>
+        <y>-37.9</y>
+        <text>Randomly sampling provides an acceptable approximation to most local network topological parameters</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Randomly sampling provides an acceptable approximation to most local network topological parameters</FONT>
+          </P>
+        </htmlText>
+        <w>371.8</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="1_7092939" type="label" x="188987.1" y="-125633.95" r="0" s="0.29002201557159424" class="head">
+      <textfield>
+        <x>-185.15</x>
+        <y>-25.95</y>
+        <text>However, for some global measures it is best to sample as much data as possible</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">However, for some global measures it is best to sample as much data as possible</FONT>
+          </P>
+        </htmlText>
+        <w>370.3</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="2_7092939" type="label" x="188959.45" y="-125601.2" r="0" s="0.29002201557159424" class="head">
+      <textfield>
+        <x>-214.85</x>
+        <y>-37.9</y>
+        <text>The Boost Graph Library was implemented to write algorithims that could handle the large data sets</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">The Boost Graph Library was implemented to write algorithims that could handle the large data sets</FONT>
+          </P>
+        </htmlText>
+        <w>429.7</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="5_7092939" type="label" x="-238491.3" y="-131579.7" r="0" s="41.531707763671875" class="head">
+      <textfield>
+        <x>-183.05</x>
+        <y>-25.95</y>
+        <text>a More interesting question, how Do weights scale with degree?</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">a More interesting question, how Do weights scale with degree?</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>366.1</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="6_7092939" type="button" x="-291855.8" y="-149958.55" r="0" s="40.932037353515625" class="circle">
+      <type>circle</type>
+      <size>
+        <w>390.6</w>
+        <h>390.6</h>
+      </size>
+    </object>
+    <object id="8_7092939" type="image" x="-295485.95" y="-149165.1" r="0" s="5.525226593017578">
+      <source w="792" h="612">36462005<url>36462005.swf</url></source>
+      <resource>
+        <id>36462005</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/c/e/bad358ffda92f9a89a6a782dce07277a92082.swf</url>
+      </resource>
+    </object>
+    <object id="9_7092939" type="image" x="-295489.55" y="-148656.45" r="0" s="12.486196517944336">
+      <source w="792" h="612">36462006<url>36462006.swf</url></source>
+      <resource>
+        <id>36462006</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/c/e/bad358ffda92f9a89a6a782dce07277a92082.swf</url>
+      </resource>
+    </object>
+    <object id="10_7092939" type="label" x="-294845.65" y="-153136.9" r="0" s="37.126033782958984" class="head">
+      <textfield>
+        <x>-131.35</x>
+        <y>-13.95</y>
+        <text>Average Strength Per Degree</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Average Strength Per Degree</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="12_7092939" type="button" x="-264376.55" y="-142813.95" r="10.759217507271947" s="66.140508352121" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>605</w>
+        <h>23</h>
+      </size>
+    </object>
+    <object id="13_7092939" type="button" x="-299923" y="-54111.6" r="0" s="85.48816680908203" class="circle">
+      <type>circle</type>
+      <size>
+        <w>394.2</w>
+        <h>394.2</h>
+      </size>
+    </object>
+    <object id="14_7092939" type="button" x="-253238.2" y="-58964.5" r="-6.503415096325942" s="149.14568017577676" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>338</w>
+        <h>20</h>
+      </size>
+    </object>
+    <object id="16_7092939" type="image" x="-289656.15" y="-53372.15" r="0" s="27.228792190551758">
+      <source w="792" h="612">36462913<url>36462913.swf</url></source>
+      <resource>
+        <id>36462913</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/e/f/62b392116859f804a04988370756873044ba8.swf</url>
+      </resource>
+    </object>
+    <object id="17_7092939" type="label" x="-296016.4" y="-64824.5" r="0" s="74.25208282470703" class="head">
+      <textfield>
+        <x>-196.05</x>
+        <y>-13.95</y>
+        <text>Average Clustering as a function of Degree</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Average Clustering as a function of Degree</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="21_7092939" type="button" x="48348.65" y="-53943.1" r="0" s="4.6284260749816895" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="23_7092939" type="button" x="-181163.55" y="-102338.15" r="0" s="265.493896484375" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="24_7092939" type="button" x="-197953.6" y="-55992.1" r="0" s="29.279685974121094" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="25_7092939" type="button" x="-125887.55" y="-111146.9" r="0" s="22.794841766357422" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="26_7092939" type="button" x="-228295.35" y="-137762.8" r="0" s="25.98027992248535" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="27_7092939" type="button" x="-290616.95" y="-149954.05" r="0" s="14.06590747833252" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="28_7092939" type="button" x="-301046.7" y="-56265.6" r="0" s="29.640989303588867" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="0_1332877" type="button" x="-38448.75" y="33587.05" r="0" s="99.33382415771484" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1180</w>
+        <h>580</h>
+      </size>
+    </object>
+    <object id="1_1332877" type="button" x="232928.95" y="125385.5" r="0" s="251.9551239013672" class="circle">
+      <type>circle</type>
+      <size>
+        <w>180.6</w>
+        <h>180.6</h>
+      </size>
+    </object>
+    <object id="2_1332877" type="button" x="83831.8" y="222452.9" r="0" s="629.3843994140625" class="circle">
+      <type>circle</type>
+      <size>
+        <w>77.1</w>
+        <h>77.1</h>
+      </size>
+    </object>
+    <object id="3_1332877" type="button" x="174316.3" y="125359.55" r="0" s="225.5787353515625" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>263</w>
+        <h>12</h>
+      </size>
+    </object>
+    <object id="4_1332877" type="button" x="97001.3" y="175789.5" r="105.51835027921722" s="211.86586715594586" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>200</w>
+        <h>14</h>
+      </size>
+    </object>
+    <object id="5_1332877" type="label" x="216301.25" y="108835.75" r="0" s="144.3490447998047" class="head">
+      <textfield>
+        <x>-157.65</x>
+        <y>-13.95</y>
+        <text>Degree Distribution from 1900-2000</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Degree Distribution from 1900-2000</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="6_1332877" type="label" x="85942.45" y="209903.2" r="0" s="144.34909057617188" class="head">
+      <textfield>
+        <x>-153.3</x>
+        <y>-13.95</y>
+        <text>Changes in the Weight Distribution</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Changes in the Weight Distribution</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="7_1332877" type="label" x="-237185.85" y="-135690.9" r="0" s="41.531707763671875" class="head">
+      <textfield>
+        <x>-185.25</x>
+        <y>-25.95</y>
+        <text>we depend on some pairs of words heavily but almost never use some...</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">we depend on some pairs of words heavily but almost never use some...</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>370.55</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="8_1332877" type="label" x="-236465.7" y="-134008.4" r="0" s="41.531707763671875" class="head">
+      <textfield>
+        <x>-122.95</x>
+        <y>-13.95</y>
+        <text>but you already knew that!</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">but you already knew that!</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="9_1332877" type="label" x="-285951.45" y="-150407.4" r="0" s="24.802730560302734" class="head">
+      <textfield>
+        <x>-173.75</x>
+        <y>-61.85</y>
+        <text>...The strength of a node is strictly a linear function of its degree,
+indicates absence of correlations between the weight of edges and the degree of nodes</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">...The strength of a node is strictly a linear function of its degree,</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">indicates absence of correlations between the weight of edges and the degree of nodes</FONT>
+          </P>
+        </htmlText>
+        <w>347.55</w>
+        <h>123.75</h>
+      </textfield>
+    </object>
+    <object id="11_1332877" type="label" x="-310988.95" y="-58836.25" r="0" s="47.1713752746582" class="head">
+      <textfield>
+        <x>-224.6</x>
+        <y>-37.9</y>
+        <text>More than an order of magnitude decrease in the average clustering coefficient from the low connectivity words to the highest</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">More than an order of magnitude decrease in the average clustering coefficient from the low connectivity words to the highest</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>449.2</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="12_1332877" type="label" x="-311738.65" y="-55045.15" r="0" s="36.087249755859375" class="head">
+      <textfield>
+        <x>-245.9</x>
+        <y>-25.95</y>
+        <text>Words that are connected through a hub are less likely to be neighbors.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Words that are connected through a hub are less likely to be neighbors.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>491.8</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="13_1332877" type="label" x="-312071.4" y="-51535.4" r="0" s="36.087249755859375" class="head">
+      <textfield>
+        <x>-236.7</x>
+        <y>-37.9</y>
+        <text>Further emphasizes the importance of articles, prepositions, and simple verbs in tying our sentences together</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Further emphasizes the importance of articles, prepositions, and simple verbs in tying our sentences together</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>473.45</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="6_1359203" type="button" x="40620.05" y="-61168.55" r="0" s="45.317840576171875" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1180</w>
+        <h>580</h>
+      </size>
+    </object>
+    <object id="7_1359203" type="button" x="148246.35" y="-92064.15" r="0" s="40.26491165161133" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="8_1359203" type="button" x="-198210.85" y="-74808.5" r="0" s="29.459827423095703" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="9_1359203" type="button" x="181980.65" y="168183.5" r="0" s="315.54547119140625" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="10_1359203" type="button" x="111863.05" y="125376.9" r="0" s="71.28520202636719" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="11_1359203" type="button" x="232928.95" y="126138.95" r="0" s="65.44610595703125" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="12_1359203" type="button" x="97558.7" y="226627.25" r="0" s="60.48338317871094" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="13_1359203" type="button" x="-173142.3" y="105317.3" r="0" s="72.76270294189453" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1372.55</w>
+        <h>582.1</h>
+      </size>
+    </object>
+    <object id="14_1359203" type="button" x="2002.4" y="-23754.5" r="42.865702064228856" s="118.71709528930835" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>38</w>
+        <h>402</h>
+      </size>
+    </object>
+    <object id="0_1375321" type="button" x="46363.1" y="-53882.9" r="0" s="2.261857509613037" class="circle">
+      <type>circle</type>
+      <size>
+        <w>466.9</w>
+        <h>466.9</h>
+      </size>
+    </object>
+    <object id="1_1375321" type="label" x="46502.95" y="-54268.15" r="0" s="5.597529888153076" class="head">
+      <textfield>
+        <x>-37.95</x>
+        <y>-13.95</y>
+        <text>3-Grams</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">3-Grams</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="2_1375321" type="label" x="46131.9" y="-53983.5" r="0" s="3.1774771213531494" class="head">
+      <textfield>
+        <x>-82.7</x>
+        <y>-13.95</y>
+        <text>"Rock the casbah"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"Rock the casbah"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="3_1375321" type="label" x="46641.05" y="-53882.95" r="0" s="2.6486449241638184" class="head">
+      <textfield>
+        <x>-87.3</x>
+        <y>-13.95</y>
+        <text>"in depth analysis"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"in depth analysis"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="4_1375321" type="label" x="46241.7" y="-53666.6" r="0" s="3.1774771213531494" class="head">
+      <textfield>
+        <x>-146.75</x>
+        <y>-13.95</y>
+        <text>"partial differential equations"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"partial differential equations"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="5_1375321" type="label" x="46688.15" y="-54075.05" r="0" s="3.1774771213531494" class="head">
+      <textfield>
+        <x>-99.7</x>
+        <y>-13.95</y>
+        <text>"scale free Network"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"scale free Network"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="6_1375321" type="button" x="46147.15" y="-53923.1" r="0" s="1.2866076231002808" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="7_1375321" type="button" x="45543.45" y="-53929.75" r="0" s="0.7417316436767578" class="circle">
+      <type>circle</type>
+      <size>
+        <w>320.4</w>
+        <h>320.4</h>
+      </size>
+    </object>
+    <object id="8_1375321" type="label" x="45495.35" y="-54004.4" r="0" s="1.5887234210968018" class="head">
+      <textfield>
+        <x>-37.75</x>
+        <y>-13.95</y>
+        <text>4-grams</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">4-grams</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="9_1375321" type="button" x="45563.05" y="-53888.3" r="0" s="0.7417316436767578" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>654</h>
+      </size>
+    </object>
+    <object id="10_1375321" type="button" x="45325.85" y="-53924.05" r="0" s="0.39555665850639343" class="circle">
+      <type>circle</type>
+      <size>
+        <w>120.5</w>
+        <h>120.5</h>
+      </size>
+    </object>
+    <object id="11_1375321" type="label" x="45330.5" y="-53939" r="0" s="0.42425841093063354" class="head">
+      <textfield>
+        <x>-37.95</x>
+        <y>-13.95</y>
+        <text>5-grams</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">5-grams</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="12_1375321" type="label" x="45324.4" y="-53919.45" r="0" s="0.1546875536441803" class="head">
+      <textfield>
+        <x>-155.55</x>
+        <y>-61.85</y>
+        <text>"this is getting very small"
+
+
+
+"...And so proceed ad infinitum."</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"this is getting very small"</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"...And so proceed ad infinitum."</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="13_1375321" type="label" x="45648.2" y="-53927.4" r="0" s="0.7943464517593384" class="head">
+      <textfield>
+        <x>-90.45</x>
+        <y>-13.95</y>
+        <text>"all your base are"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"all your base are"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="14_1375321" type="label" x="45537.6" y="-53888.95" r="0" s="0.7943464517593384" class="head">
+      <textfield>
+        <x>-80.25</x>
+        <y>-13.95</y>
+        <text>"fool in the rain"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"fool in the rain"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="16_1375321" type="label" x="49501.4" y="-53870" r="0" s="11.409850120544434" class="head">
+      <textfield>
+        <x>-69.2</x>
+        <y>-13.95</y>
+        <text>"average path"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"average path"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="17_1375321" type="label" x="-188994.35" y="-51397.65" r="0" s="50.84022903442383" class="head">
+      <textfield>
+        <x>-178.35</x>
+        <y>-25.95</y>
+        <text>tail degree exponent of 2.64 puts this in "Ultra small world" regime</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">tail degree exponent of 2.64 puts this in "Ultra small world" regime</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>356.75</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="32_7084089" type="label" x="-237558.15" y="-141026.3" r="0" s="41.531707763671875" class="head">
+      <textfield>
+        <x>-210.4</x>
+        <y>-37.9</y>
+        <text>The frequency of 2-grams (weight of link between the words) follows a power law (zipf's Law)</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">The frequency of 2-grams (weight of link between the words) follows a power law (zipf's Law)</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>420.85</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="18_1375321" type="label" x="39719.6" y="-57611.75" r="0" s="77.31256103515625" class="head">
+      <textfield>
+        <x>-307.3</x>
+        <y>-13.95</y>
+        <text>N-grams are a measure of syntax or the structure of sentences</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">N-grams are a measure of syntax or the structure of sentences</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="4_202796" type="label" x="-119329.05" y="-109231.15" r="0" s="30.213088989257813" class="head">
+      <textfield>
+        <x>-178.75</x>
+        <y>-61.85</y>
+        <text>Articles, conjunctions, and prepositions are the mortar that holds our sentences together, but often have verbs, adjectives and nouns interposed</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Articles, conjunctions, and prepositions are the mortar that holds our sentences together, but often have verbs, adjectives and nouns interposed</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>357.55</w>
+        <h>123.75</h>
+      </textfield>
+    </object>
+    <object id="6_202796" type="image" x="-120925.6" y="-90247.75" r="0" s="33.821441650390625">
+      <source w="161" h="455">36664630<url>36664630.jpg</url></source>
+      <resource>
+        <id>36664630</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/0/9/f60bf31306bcdacc710e7ec20e25eaab40754.jpg</url>
+      </resource>
+    </object>
+    <object id="9_202796" type="label" x="-130143.05" y="-93424.05" r="0" s="30.213088989257813" class="head">
+      <textfield>
+        <x>-201.3</x>
+        <y>-25.95</y>
+        <text>Note that a relatively low degree word is connected to very high degree hubs</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Note that a relatively low degree word is connected to very high degree hubs</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>402.65</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="0_7511411" type="button" x="-64291.95" y="36789.3" r="0" s="501.78631591796875" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1921</w>
+        <h>966</h>
+      </size>
+    </object>
+    <object id="2_7511411" type="image" x="78208.4" y="229344.1" r="0" s="58.03270721435547">
+      <source w="755" h="586">36862110<url>36862110.png</url></source>
+      <resource>
+        <id>36862110</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/7/e56aef8f6c37073c359e5ff57fae5e74de059.png</url>
+      </resource>
+    </object>
+    <object id="3_7511411" type="label" x="114143.25" y="218447.85" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-137.75</x>
+        <y>-25.95</y>
+        <text>Double power law degree exponents very stable.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Double power law degree exponents very stable.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>275.5</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="4_7511411" type="label" x="118296.25" y="233627.65" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-174.95</x>
+        <y>-49.9</y>
+        <text>Normalization constant however is increasing with time, reflecting more overall usage of English text, as expected.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Normalization constant however is increasing with time, reflecting more overall usage of English text, as expected.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>349.95</w>
+        <h>99.8</h>
+      </textfield>
+    </object>
+    <object id="0_7529883" type="label" x="-105859.7" y="-144268.45" r="0" s="681.5353393554688" class="head">
+      <textfield>
+        <x>-112.35</x>
+        <y>-13.95</y>
+        <text>Network Characteristics</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Network Characteristics</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="42_7084089" type="label" x="81154.5" y="114353.75" r="0" s="124.65556335449219" class="head">
+      <textfield>
+        <x>-127.8</x>
+        <y>-25.95</y>
+        <text>google's Corpus is growing, quite substantially.</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">google's Corpus is growing, quite substantially.</FONT>
+          </P>
+        </htmlText>
+        <w>255.6</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="3_7529883" type="label" x="86709.25" y="105584.05" r="0" s="223.27207946777344" class="head">
+      <textfield>
+        <x>-99.7</x>
+        <y>-13.95</y>
+        <text>Total links and Nodes</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Total links and Nodes</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="0_7539515" type="button" x="45294.2" y="-53935.95" r="0" s="0.13682901859283447" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1921</w>
+        <h>888</h>
+      </size>
+    </object>
+    <object id="1_7539515" type="label" x="85205.6" y="139865.7" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-213.9</x>
+        <y>-49.9</y>
+        <text>Nearly constant links/node supports that new 2-grams are due mainly to the introduction of new nodes, not internal link creation.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Nearly constant links/node supports that new 2-grams are due mainly to the introduction of new nodes, not internal link creation.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>427.75</w>
+        <h>99.8</h>
+      </textfield>
+    </object>
+    <object id="2_7539515" type="label" x="-221070.95" y="-139768.05" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-65.8</x>
+        <y>-13.95</y>
+        <text>"slithy toves"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"slithy toves"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="3_7539515" type="label" x="-213699.05" y="-133798.35" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-38.6</x>
+        <y>-13.95</y>
+        <text>"of the"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"of the"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="14" type="image" x="-208247.35" y="-53631.2" r="0" s="26.345945358276367">
+      <source w="792" h="612">36990166<url>36990166.swf</url></source>
+    <resource><id>36990166</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/1/6a1192245156c2ff97509e21e7d9b2c610ea9.swf</url></resource></object>
+    <object id="4_7539515" type="label" x="-202917.5" y="-49551.15" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-25.8</x>
+        <y>-13.95</y>
+        <text>"the"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"the"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="5_7539515" type="label" x="-211067.55" y="-58676.5" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-49.3</x>
+        <y>-13.95</y>
+        <text>"arvensis"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"arvensis"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="6_7539515" type="label" x="-119200.15" y="-105643.95" r="0" s="30.213088989257813" class="head">
+      <textfield>
+        <x>-183.7</x>
+        <y>-37.9</y>
+        <text>the information content of our language comes from lower-degree words between the hubs</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">the information content of our language comes from lower-degree words between the hubs</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>367.4</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="7_7539515" type="label" x="-128909.4" y="-109974.75" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-25.8</x>
+        <y>-13.95</y>
+        <text>"the"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"the"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="8_7539515" type="label" x="-137856.15" y="-111765.2" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-38.05</x>
+        <y>-13.95</y>
+        <text>"slithy"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"slithy"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="9_7539515" type="label" x="-283291.65" y="-49550.7" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-25.8</x>
+        <y>-13.95</y>
+        <text>"the"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"the"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="10_7539515" type="label" x="-295135.45" y="-57802.75" r="0" s="27.908987045288086" class="head">
+      <textfield>
+        <x>-41.25</x>
+        <y>-13.95</y>
+        <text>"Brillig"</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">"Brillig"</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="11_7539515" type="button" x="-130201.7" y="-90305.35" r="0" s="19.04576873779297" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1921</w>
+        <h>888</h>
+      </size>
+    </object>
+    <object id="13_7539515" type="image" x="134222.55" y="129195.45" r="0" s="62.11210632324219">
+      <source w="792" h="612">36895918<url>36895918.swf</url></source>
+      <resource>
+        <id>36895918</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/4/e/ea745f2b53daa2c0e4fa6e2b44be472c604e0.swf</url>
+      </resource>
+    </object>
+    <object id="21_7539515" type="label" x="-181577.4" y="-56925.2" r="0" s="14.257074356079102" class="head">
+      <textfield>
+        <x>-164.55</x>
+        <y>-61.85</y>
+        <text>Barabasi, et al., Physica A 311 (2002)
+
+Csayni, et al., Phys. Rev. E. 69.036131
+
+newman, M.E.j., Phys. Rev. E.64.016131</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Barabasi, et al., Physica A 311 (2002)</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Csayni, et al., Phys. Rev. E. 69.036131</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">newman, M.E.j., Phys. Rev. E.64.016131</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="1_1383716" type="label" x="255529.8" y="121535.2" r="0" s="101.68050384521484" class="head">
+      <textfield>
+        <x>-197.95</x>
+        <y>-13.95</y>
+        <text>Double power law feature is unchanged</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Double power law feature is unchanged</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="0_1383716" type="label" x="255759.1" y="116601.45" r="0" s="101.68050384521484" class="head">
+      <textfield>
+        <x>-200.15</x>
+        <y>-25.95</y>
+        <text>very stable  exponents over the course of the century</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">very stable  exponents over the course of the century</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>400.35</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="24_7539515" type="label" x="-189602.35" y="-48231.9" r="0" s="50.84022903442383" class="head">
+      <textfield>
+        <x>-166.4</x>
+        <y>-25.95</y>
+        <text>measured average path of 23 on a subgraph</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">measured average path of 23 on a subgraph</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>332.8</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="25_7539515" type="label" x="-283265" y="-145758.2" r="0" s="15.027172088623047" class="head">
+      <textfield>
+        <x>-148.45</x>
+        <y>-13.95</y>
+        <text>a.barrat, et. al. PNAS 100, 11 2004</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">a.barrat, et. al. PNAS 100, 11 2004</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="0" type="label" x="-237706.05" y="-138074.1" r="0" s="55.817989349365234" class="head">
+      <textfield>
+        <x>-163.65</x>
+        <y>-25.95</y>
+        <text>Our usage of different pairings of words is scale free as well!</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Our usage of different pairings of words is scale free as well!</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>327.35</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="1" type="label" x="85799.5" y="122137.9" r="0" s="93.79537963867188" class="head">
+      <textfield>
+        <x>-224</x>
+        <y>-25.95</y>
+        <text>3200 new words, 310,000 new 2-Grams appear in the data each year</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">3200 new words, 310,000 new 2-Grams appear in the data each year</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>448.05</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="2" type="label" x="253318.85" y="127214.1" r="0" s="101.68050384521484" class="head">
+      <textfield>
+        <x>-176.15</x>
+        <y>-25.95</y>
+        <text>supported by the constant link to node ratio over the century</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">supported by the constant link to node ratio over the century</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>352.3</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="3" type="label" x="256865.05" y="135019.25" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-168.4</x>
+        <y>-25.95</y>
+        <text>THe network has reached asymptotic time behavior:</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">THe network has reached asymptotic time behavior:</FONT>
+          </P>
+        </htmlText>
+        <w>336.85</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="4" type="button" x="127868.65" y="-126259.6" r="59.18429944595901" s="86.16649719857617" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>505</w>
+        <h>29</h>
+      </size>
+    </object>
+    <object id="5" type="button" x="107480.8" y="-160847.2" r="0" s="119.21766662597656" class="circle">
+      <type>circle</type>
+      <size>
+        <w>277.1</w>
+        <h>277.1</h>
+      </size>
+    </object>
+    <object id="6" type="label" x="100561.35" y="-171452.7" r="0" s="147.41635131835938" class="head">
+      <textfield>
+        <x>-38.8</x>
+        <y>-13.95</y>
+        <text>Methods</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Methods</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="7" type="label" x="112494.4" y="-165092.1" r="0" s="55.817989349365234" class="head">
+      <textfield>
+        <x>-331.45</x>
+        <y>-25.95</y>
+        <text>C++ Standard Template Library for data processing and large Graph analysis</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">C++ Standard Template Library for data processing and large Graph analysis</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>662.9</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="9" type="label" x="111257.9" y="-160793" r="0" s="55.817989349365234" class="head">
+      <textfield>
+        <x>-316.35</x>
+        <y>-25.95</y>
+        <text>Cytoscape and Network workbench for Network visualization and analysis</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Cytoscape and Network workbench for Network visualization and analysis</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>632.7</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="10" type="label" x="102962.65" y="-156921.8" r="0" s="55.817989349365234" class="head">
+      <textfield>
+        <x>-168.4</x>
+        <y>-13.95</y>
+        <text>EasyPlot for plotting and fitting</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">EasyPlot for plotting and fitting</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="11" type="button" x="108871.15" y="-160221.45" r="0" s="42.49006271362305" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1367</w>
+        <h>697</h>
+      </size>
+    </object>
+    <object id="15" type="label" x="254098.25" y="141081.8" r="0" s="111.63602447509766" class="body">
+      <textfield>
+        <x>-62.25</x>
+        <y>-15.25</y>
+        <text>P(t,k) = P(k)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Regular" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">P(t,k) = P(k)</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="19" type="image" x="212290.3" y="128960.7" r="0" s="61.35454559326172">
+      <source w="793" h="606">36990169<url>36990169.jpg</url></source>
+    <resource><id>36990169</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/26a82c5ecc6b8b4dcdb936186a7a42949cb98.jpg</url></resource></object>
+    <object id="20" type="label" x="115522.9" y="223245" r="0" s="85.16213989257813" class="head">
+      <textfield>
+        <x>-161.2</x>
+        <y>-13.95</y>
+        <text>Exponential cutoff is a poor fit</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Exponential cutoff is a poor fit</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="0_611642" type="button" x="-83671.45" y="174086.05" r="0" s="162.62986755371094" class="circle">
+      <type>circle</type>
+      <size>
+        <w>376.6</w>
+        <h>376.6</h>
+      </size>
+    </object>
+    <object id="1_611642" type="button" x="-131193.95" y="140003.75" r="38.59730995346886" s="193.5363072225313" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>243</w>
+        <h>28</h>
+      </size>
+    </object>
+    <object id="2_611642" type="label" x="-90293.6" y="155028" r="0" s="223.27207946777344" class="head">
+      <textfield>
+        <x>-55.95</x>
+        <y>-13.95</y>
+        <text>Conclusions</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Conclusions</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="3_611642" type="label" x="-97830.25" y="162598.95" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-282.75</x>
+        <y>-13.95</y>
+        <text>English 2-Grams Follow Zipf's Law (power law weight Dist)</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">English 2-Grams Follow Zipf's Law (power law weight Dist)</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="6_611642" type="label" x="-96046.25" y="168775.5" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-298.75</x>
+        <y>-25.95</y>
+        <text>English words Are arranged into a disassortative, scale free network with weighted edges.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">English words Are arranged into a disassortative, scale free network with weighted edges.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>597.5</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="7_611642" type="label" x="-96054.65" y="188302.95" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-300.65</x>
+        <y>-25.95</y>
+        <text>Google N-Gram data shows a linear increase of english words and 2-grams over time.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Google N-Gram data shows a linear increase of english words and 2-grams over time.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>601.3</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="8_611642" type="label" x="-95293.7" y="179572.9" r="0" s="111.63602447509766" class="head">
+      <textfield>
+        <x>-305.5</x>
+        <y>-25.95</y>
+        <text>The degree and weight distributions of words and links follow a double power law that is stable over the 20th century</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">The degree and weight distributions of words and links follow a double power law that is stable over the 20th century</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>611.05</w>
+        <h>51.9</h>
+      </textfield>
+    </object>
+    <object id="10_611642" type="label" x="-101859.2" y="195418.05" r="0" s="94.2961196899414" class="head">
+      <textfield>
+        <x>-218.8</x>
+        <y>-37.9</y>
+        <text>There is evidence of a lack of internal link creation (Most new links come from initial connectivity of new nodes)</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">There is evidence of a lack of internal link creation (Most new links come from initial connectivity of new nodes)</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>437.6</w>
+        <h>75.85</h>
+      </textfield>
+    </object>
+    <object id="11_611642" type="label" x="-37052.45" y="-242221.9" r="0" s="1930.2236328125" class="head">
+      <textfield>
+        <x>-49.95</x>
+        <y>-13.95</y>
+        <text>Questions?</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Questions?</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="12_611642" type="button" x="0" y="0" r="0" s="659.9512329101563" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1921</w>
+        <h>966</h>
+      </size>
+    </object>
+    <object id="13_611642" type="button" x="-84967.65" y="176211.85" r="0" s="54.615989685058594" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1921</w>
+        <h>966</h>
+      </size>
+    </object>
+    <object id="0_632682" type="label" x="-86981.35" y="174122.05" r="0" s="97.62998962402344" class="head">
+      <textfield>
+        <x>-345.8</x>
+        <y>-13.95</y>
+        <text>The weight of the edge shows no correlation to the degree of the vertex</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">The weight of the edge shows no correlation to the degree of the vertex</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="10_202796" type="label" x="-170162.2" y="110014.8" r="0" s="143.8599090576172" class="head">
+      <textfield>
+        <x>-176.8</x>
+        <y>-109.75</y>
+        <text>Barabasi, et al., Physica A 311 (2002)
+
+Csayni, et al., Phys. Rev. E. 69.036131
+
+newman, M.E.j., Phys. Rev. E.64.016131
+
+a.barrat, et. al. PNAS 100, 11 2004
+
+Cancho, Sole, Proc. R. Soc. Lond. B, 2001</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Barabasi, et al., Physica A 311 (2002)</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Csayni, et al., Phys. Rev. E. 69.036131</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">newman, M.E.j., Phys. Rev. E.64.016131</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">a.barrat, et. al. PNAS 100, 11 2004</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="PublicGothicSquare" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0">Cancho, Sole, Proc. R. Soc. Lond. B, 2001</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+  </zui-table>
+  <path>
+    <o>0_1332877</o>
+    <o>6_1359203</o>
+    <o>21_7092939</o>
+    <o>6_1375321</o>
+    <o>9_1375321</o>
+    <o>0_7539515</o>
+    <o>7_1359203</o>
+    <o>11</o>
+    <o>23_7092939</o>
+    <o>8_1359203</o>
+    <o>24_7092939</o>
+    <o>26_7092939</o>
+    <o>27_7092939</o>
+    <o>25_7092939</o>
+    <o>11_7539515</o>
+    <o>28_7092939</o>
+    <o>9_1359203</o>
+    <o>10_1359203</o>
+    <o>11_1359203</o>
+    <o>12_1359203</o>
+    <o>13_611642</o>
+    <o>13_1359203</o>
+    <o>12_611642</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('PublicGothicSquare.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('LiberationSerif-Regular.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('LiberationSerif-Bold.swf');
+	fontFamily: strong;
+}
+
+ZLabel
+{
+	padding: 1.2;
+	lockTintColor: #958900;
+	lockTintAlpha: 0.75;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+.line5
+{
+	color: #000;
+}
+
+ZLabel.strong
+{
+	color: #d4001f;
+	fontFamily: strong;
+}
+
+.line1
+{
+	color: #d4001f;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+Background
+{
+	gradStart: #958900;
+	gradEnd: #e2d200;
+}
+
+Grid
+{
+	color: #8b8000;
+}
+
+ZFrame.circle
+{
+	gradStartColor: #fff;
+	borderAlpha: 1;
+	gradEndColor: #fff;
+	borderThickness: 0;
+	gradStartAlpha: 1;
+	borderColor: #fff;
+	lockTintColor: #958900;
+	thickness: 25;
+	gradEndAlpha: 0.7;
+}
+
+.line4
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	gradStartColor: #444;
+	borderAlpha: 0.5;
+	gradEndColor: #000;
+	borderThickness: 0;
+	gradStartAlpha: 1;
+	borderColor: #888;
+	lockTintColor: #958900;
+	thickness: 25;
+	gradEndAlpha: 1;
+}
+
+.line2
+{
+	color: #000;
+}
+
+ZFrame.roundrect
+{
+	gradStartColor: #fff;
+	borderAlpha: 0.7;
+	radius: 0;
+	gradEndColor: #fff;
+	borderThickness: 0;
+	gradStartAlpha: 1;
+	borderColor: #fff;
+	lockTintColor: #958900;
+	gradEndAlpha: 0.7;
+}
+
+ZFrame.invisible
+{
+	gradStartColor: #fff;
+	borderAlpha: 0.6;
+	radius: 30;
+	gradEndColor: #fff;
+	gradEndAlpha: 0.3;
+	borderColor: #fff;
+	lockTintColor: #958900;
+	gradStartAlpha: 0.02;
+}
+
+ZCurveLine
+{
+	lockTintColor: #958900;
+	thickness: 0;
+	color: #fff;
+	alpha: 1;
+}
+
+ZArrow
+{
+	gradStartColor: #d4001f;
+	borderAlpha: 0.2;
+	gradEndColor: #d4001f;
+	borderThickness: 0;
+	gradStartAlpha: 1;
+	borderColor: #fff;
+	lockTintColor: #958900;
+	thickness: 15;
+	gradEndAlpha: 0;
+}
+
+.line3
+{
+	color: #d4001f;
+}
+
+ZMarker
+{
+	lockTintColor: #958900;
+	thickness: 20;
+	color: #ff3d00;
+	alpha: 0.5;
+}
+
+ZPath
+{
+	thickness: 5;
+	color: #5aa7cb;
+	alpha: 0.8;
+	textColor: #fff;
+}
+
+ZPath Ball.base
+{
+	fillColor: #5aa7cb;
+	alpha: 0.8;
+	radius: 15;
+}
+
+ZPath Ball.mid
+{
+	fillColor: #5aa7cb;
+	alpha: 0.8;
+	radius: 7;
+}
+
+ZVideo
+{
+	padding: 1.2;
+	lockTintColor: #958900;
+}
+
+ZYoutube
+{
+	lockTintColor: #958900;
+}
+
+ZLoadedImage
+{
+	lockTintColor: #958900;
+}
+
+]]></style>
+  <hash>0455913f1503fb3d5f457e46fd0a91db</hash>
+<sync><oid>wuhpytgxc721</oid><title>exploring-the-english-language-network-with-google-n-grams</title><hash>0455913f1503fb3d5f457e46fd0a91db</hash></sync><config>EoEFWyJ7HfchOpv8CjykaztKJXrBXqYUvoVjXQJpstHv32aMJjUzi+6hnChaKzgsDcBnvB/WFnAlLTGpRwoJMS6zF7MHXVC6S/8pVHER41ue9ZY2pV4AaGsfm8iqbFcSTw7ClubyeWEktB4ssBL6jSkZwcn8Sd6uOiqfRKD7NpaDzuAg9Wqt4U/KQXBdHxQdBBDewBJpEQQ+lug8xO3dqI/LRgx5babPIfwsQNC7mkYj4vbC4D5Hnf+t3Q8apn6euTUu/La3dEoLmkM7IE7ZCygWsjgzM6+nKJjcRDDBjOf3Mt4eUvUirgmdDsh446CC9Ts2mCLSnbLfu6DOdESGtg==</config></zuiprezi>
