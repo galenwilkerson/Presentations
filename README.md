@@ -19,7 +19,7 @@ Some pages were intentionally left blank as topics to mention but not go into de
 
 Netsci Urban systems -
 
-This was a talk I prepared for an invited presentation at Netsci 2014 on my work on urban mobility scaling.
+This was a talk I prepared for an invited presentation at Netsci 2014 on my work on urban mobility scaling.  Unfortunately I was unable to attend.
 
 
 Presentation Sustainability Complex Systems - 
